@@ -34,7 +34,7 @@ A (disruptive) Oeuvre d'ART, enticed by the ART bait appears on the Bait Plate. 
 
 Since this tool is a sort of *lack hole for ART,* an alternative name for it would be: **ARThole**
 
-<a name="myfootnote1">1</a>: This project respects the 10 Tenents of [Chindogu](http://www.chindogu.com/)
+<a name="myfootnote1">1</a>: This project respects the 10 Tenets of [Chindogu](http://www.chindogu.com/)
 
 
 
