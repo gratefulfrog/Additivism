@@ -32,7 +32,7 @@ In the ARMED position, the ARTrap Bait Plate is held in a delicate gravitational
 
 A (disruptive) Oeuvre d'ART, enticed by the ART bait appears on the Bait Plate. This upsets the delicate world balance increasing the gravitational pressure on the plate, and causing the center of gravity of the Counter-Art weights to shift towards the Oeuvre d'ART. This initially comforts the Oeuvre which feels that gravity is on its side. However, suddenly the Bait Plate, no longer supported, falls downwards. Simultaneously, the Counter-Art weights, fold in and downwards, bringing the trap doors down upon the Oeuvre, which is now hopelessly trapped, leaving humanity safely re-balanced.
 
-Since this tool is a sort of *lack hole for ART,* an alternative name for it would be: **ARThole**
+Since this tool is a sort of *Black hole for ART,* an alternative name for it would be: **ARThole**
 
 <a name="myfootnote1">1</a>: This project respects the 10 Tenets of [Chindogu](http://www.chindogu.com/)
 
