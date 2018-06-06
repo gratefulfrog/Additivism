@@ -1,4 +1,5 @@
 # Additivism
+Following Microsoft's purchase of Github, this project has migrated to gitlab.
 
 Some results of the [Additivism Masterclass](https://docs.google.com/presentation/d/1zDGqoAnj2MhMBiOX0ClwaPSHnB7CIv1Liiuu0FB1cRA/edit?usp=sharing) given at [IMAL](http://www.imal.org) 25 & 26 May 2017.
 
